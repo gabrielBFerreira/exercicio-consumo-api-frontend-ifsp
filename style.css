@@ -1,0 +1,11 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+#leagueLogo {
+  width: 20%;
+}
+
+.teamLogo {
+  width: 40px;
+}
