@@ -135,7 +135,6 @@ async function tabelaCampeonato(leagueId, year) {
     tableRow.appendChild(elem5);
     tableRow.appendChild(elem6);
     tableRow.appendChild(elem7);
-    tableRow.appendChild(elem7);
     tableRow.appendChild(elem8);
     tableRow.appendChild(elem9);
 
@@ -143,8 +142,6 @@ async function tabelaCampeonato(leagueId, year) {
   });
 
   element.appendChild(table);
-
-  console.log(standings);
 }
 
 listarCampeonatos();
